@@ -16,7 +16,7 @@ function zoom(amt){
 function mousePressed(){
   curCoords[0] = ps.mouseX;
   curCoords[1] = ps.mouseY;
-  buttonDown = true;
+  buttonDown = true; 
 }
  
 function mouseReleased(){
