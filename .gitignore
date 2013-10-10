@@ -1,0 +1,4 @@
+*.las
+.DS_Store
+*.csv
+*.txt
